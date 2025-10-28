@@ -26,6 +26,7 @@ Modern yapay zeka teknolojileri kullanarak öğrenci yüz tanıma ve duygu anali
 - **Yüz Tanıma**: InsightFace Buffalo_l modeli ile 512 boyutlu embedding çıkarımı
 - **Duygu Analizi**: DeepFace ile 7 temel duygu tespiti (Mutlu, Üzgün, Kızgın, Şaşkın, Korkmuş, Tiksinmiş, Nötr)
 - **Kalite Kontrol**: 5 farklı kriterde otomatik fotoğraf kalite analizi
+- Tanınamayan yüzler için kalite metrik ve verileri veritabanında saklanmaktadır ve bu sayede de sisteme kaydedilemeyen kullanıcılar için geliştirici tarafından manuel destek sunulmaktadır.
 
 ### 📸 Fotoğraf İşleme
 - Tekli veya grup fotoğrafı desteği
@@ -194,23 +195,15 @@ Sistem 5 kriter ile fotoğraf kalitesini değerlendirir:
 
 **Kabul Kriteri**: 3/3 kritik + 1/2 destek kriter geçmeli
 
+### Entegrasyon
+- Projenin ana mantığı (yüz tanıma, duygu analizi), aynı zamanda bir API olarak tasarlanmıştır.
+- Geliştirilen bu API, bir mobil uygulamaya (iOS/Android) başarıyla entegre edilerek, sistemin mobil platformlarda da kullanılması sağlanmıştır.
+
 ## 🐛 Bilinen Sorunlar
 
 - İlk model indirmesi internet kesilirse tekrar başlatma gerekir
 - CUDA desteği için ek konfigürasyon gerekebilir
 - Tkinter bazı Linux dağıtımlarında ek paket gerektirebilir
-
-## 📄 Lisans ve Telif Hakkı
-
-Copyright (c) [2025] [Mustafa Ataklı]
-
-**Tüm Hakları Saklıdır (All Rights Reserved).**
-
-Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlarının hiçbir bölümü, yazılı ve açık izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
-
-## 👨‍💻 Geliştirici
-
-**Mustafa Ataklı**
 
 ## 🙏 Teşekkürler
 
@@ -221,10 +214,6 @@ Bu proje aşağıdaki açık kaynak projelerden faydalanmıştır:
 - [TensorFlow](https://www.tensorflow.org/) - Deep learning
 - [OpenCV](https://opencv.org/) - Görüntü işleme
 
-### Entegrasyon
-- Projenin ana mantığı (yüz tanıma, duygu analizi), aynı zamanda bir API olarak tasarlanmıştır.
-- Geliştirilen bu API, bir mobil uygulamaya (iOS/Android) başarıyla entegre edilerek, sistemin mobil platformlarda da kullanılması sağlanmıştır.
-
 ## 📧 İletişim
 
 Sorularınız ve önerileriniz için:
@@ -232,5 +221,19 @@ Sorularınız ve önerileriniz için:
 - Email: atakliim20@gmail.com
 
 ---
+
+## 📄 Lisans ve Telif Hakkı
+
+Copyright (c) [2025] [Mustafa Ataklı]
+
+**Tüm Hakları Saklıdır (All Rights Reserved).**
+
+Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlarının hiçbir bölümü, yazılı ve açık izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Mustafa Ataklı**
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
