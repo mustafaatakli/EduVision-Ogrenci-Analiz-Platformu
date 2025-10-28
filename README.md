@@ -199,11 +199,15 @@ Sistem 5 kriter ile fotoğraf kalitesini değerlendirir:
 - Projenin ana mantığı (yüz tanıma, duygu analizi), aynı zamanda bir API olarak tasarlanmıştır.
 - Geliştirilen bu API, bir mobil uygulamaya (iOS/Android) başarıyla entegre edilerek, sistemin mobil platformlarda da kullanılması sağlanmıştır.
 
+---
+
 ## 🐛 Bilinen Sorunlar
 
 - İlk model indirmesi internet kesilirse tekrar başlatma gerekir
 - CUDA desteği için ek konfigürasyon gerekebilir
 - Tkinter bazı Linux dağıtımlarında ek paket gerektirebilir
+
+---
 
 ## 🙏 Teşekkürler
 
@@ -213,6 +217,8 @@ Bu proje aşağıdaki açık kaynak projelerden faydalanmıştır:
 - [DeepFace](https://github.com/serengil/deepface) - Duygu analizi
 - [TensorFlow](https://www.tensorflow.org/) - Deep learning
 - [OpenCV](https://opencv.org/) - Görüntü işleme
+
+---
 
 ## 📧 İletişim
 
@@ -229,6 +235,48 @@ Copyright (c) [2025] [Mustafa Ataklı]
 **Tüm Hakları Saklıdır (All Rights Reserved).**
 
 Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlarının hiçbir bölümü, yazılı ve açık izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
+
+---
+
+## 🖼️ Örnek Çalışma Görüntüleri
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184159.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184224.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184252.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184317.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184349.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184443.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184520.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184542.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184956.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20185051.png" width="auto">
 
 ---
 
