@@ -201,18 +201,6 @@ Sistem 5 kriter ile fotoğraf kalitesini değerlendirir:
 - CUDA desteği için ek konfigürasyon gerekebilir
 - Tkinter bazı Linux dağıtımlarında ek paket gerektirebilir
 
-## 📄 Lisans ve Telif Hakkı
-
-Copyright (c) [2025] [Mustafa Ataklı]
-
-**Tüm Hakları Saklıdır (All Rights Reserved).**
-
-Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlarının hiçbir bölümü, yazılı ve açık izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
-
-## 👨‍💻 Geliştirici
-
-**Mustafa Ataklı**
-
 ## 🙏 Teşekkürler
 
 Bu proje aşağıdaki açık kaynak projelerden faydalanmıştır:
@@ -233,5 +221,17 @@ Sorularınız ve önerileriniz için:
 - Email: atakliim20@gmail.com
 
 ---
+
+## 📄 Lisans ve Telif Hakkı
+
+Copyright (c) [2025] [Mustafa Ataklı]
+
+**Tüm Hakları Saklıdır (All Rights Reserved).**
+
+Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlarının hiçbir bölümü, yazılı ve açık izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
+
+## 👨‍💻 Geliştirici
+
+**Mustafa Ataklı**
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
