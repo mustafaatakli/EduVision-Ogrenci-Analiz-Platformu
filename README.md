@@ -195,6 +195,10 @@ Sistem 5 kriter ile fotoğraf kalitesini değerlendirir:
 
 **Kabul Kriteri**: 3/3 kritik + 1/2 destek kriter geçmeli
 
+### Entegrasyon
+- Projenin ana mantığı (yüz tanıma, duygu analizi), aynı zamanda bir API olarak tasarlanmıştır.
+- Geliştirilen bu API, bir mobil uygulamaya (iOS/Android) başarıyla entegre edilerek, sistemin mobil platformlarda da kullanılması sağlanmıştır.
+
 ## 🐛 Bilinen Sorunlar
 
 - İlk model indirmesi internet kesilirse tekrar başlatma gerekir
@@ -209,10 +213,6 @@ Bu proje aşağıdaki açık kaynak projelerden faydalanmıştır:
 - [DeepFace](https://github.com/serengil/deepface) - Duygu analizi
 - [TensorFlow](https://www.tensorflow.org/) - Deep learning
 - [OpenCV](https://opencv.org/) - Görüntü işleme
-
-### Entegrasyon
-- Projenin ana mantığı (yüz tanıma, duygu analizi), aynı zamanda bir API olarak tasarlanmıştır.
-- Geliştirilen bu API, bir mobil uygulamaya (iOS/Android) başarıyla entegre edilerek, sistemin mobil platformlarda da kullanılması sağlanmıştır.
 
 ## 📧 İletişim
 
