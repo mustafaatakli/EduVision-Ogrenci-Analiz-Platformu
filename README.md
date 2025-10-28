@@ -252,10 +252,6 @@ Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlar
 
 ---
 
-<img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184317.png" width="auto">
-
----
-
 <img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184349.png" width="auto">
 
 ---
