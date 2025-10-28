@@ -230,6 +230,8 @@ Copyright (c) [2025] [Mustafa Ataklı]
 
 Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlarının hiçbir bölümü, yazılı ve açık izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
 
+---
+
 ## 👨‍💻 Geliştirici
 
 **Mustafa Ataklı**
