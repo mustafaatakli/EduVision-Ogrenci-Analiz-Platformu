@@ -1,6 +1,6 @@
 # 🎓 Okullar İçin Yüz Tanıma ve Duygu Analizi Sistemi (Masaüstü Uygulaması)
 
-Modern yapay zeka teknolojileri kullanarak öğrenci yüz tanıma ve duygu analizi yapan masaüstü uygulaması olarak tasarlanip geliştirilmiştir.
+Bu proje, okullara yönelik tasarlanmış modern bir Yüz Tanıma ve Duygu Analizi Masaüstü Uygulamasıdır. Python tabanlı bu sistem, gelişmiş yapay zeka modellerini kullanarak öğrenci kayıt, tanıma ve duygu analizi süreçlerini otomatikleştirmeyi amaçlamaktadır.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
