@@ -1,0 +1,34 @@
+insightface==0.7.3
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.1
+onnxruntime==1.16.3
+scikit-learn==1.3.0
+
+# Config sistemi için gerekli paketler
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# MSSQL veritabanı bağlantısı için gerekli paketler
+pyodbc>=4.0.39
+sqlalchemy>=2.0.0
+pymssql>=2.2.8
+
+# Duygu analizi için gerekli paketler
+deepface>=0.0.79
+tensorflow>=2.12.0
+tf-keras>=2.12.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
