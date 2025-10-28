@@ -26,6 +26,7 @@ Modern yapay zeka teknolojileri kullanarak öğrenci yüz tanıma ve duygu anali
 - **Yüz Tanıma**: InsightFace Buffalo_l modeli ile 512 boyutlu embedding çıkarımı
 - **Duygu Analizi**: DeepFace ile 7 temel duygu tespiti (Mutlu, Üzgün, Kızgın, Şaşkın, Korkmuş, Tiksinmiş, Nötr)
 - **Kalite Kontrol**: 5 farklı kriterde otomatik fotoğraf kalite analizi
+- Tanınamayan yüzler için kalite metrik ve verileri veritabanında saklanmaktadır ve bu sayede de sisteme kaydedilemeyen kullanıcılar için geliştirici tarafından manuel destek sunulmaktadır.
 
 ### 📸 Fotoğraf İşleme
 - Tekli veya grup fotoğrafı desteği
