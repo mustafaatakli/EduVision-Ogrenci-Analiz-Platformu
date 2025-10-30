@@ -268,6 +268,10 @@ Bu proje, portfolyo amacıyla sergilenmektedir. Bu yazılımın ve kaynak kodlar
 
 ---
 
+<img src="https://github.com/mustafaatakli/EduVision-Ogrenci-Analiz-Platformu/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-30%20182729.png" width="auto">
+
+---
+
 <img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184443.png" width="auto">
 
 ---
@@ -546,8 +550,6 @@ This project is exhibited for portfolio purposes. No part of this software and s
 
 ---
 
-## 🖼️ Sample Work Images
-
 <img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184159.png" width="auto">
 
 ---
@@ -561,6 +563,10 @@ This project is exhibited for portfolio purposes. No part of this software and s
 ---
 
 <img src="https://github.com/mustafaatakli/Okullar-Icin-Yuz-Tanima-ve-Duygu-Analizi-Sistemi/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-28%20184349.png" width="auto">
+
+---
+
+<img src="https://github.com/mustafaatakli/EduVision-Ogrenci-Analiz-Platformu/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-30%20182729.png" width="auto">
 
 ---
 
